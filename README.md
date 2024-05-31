@@ -79,7 +79,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-Your Name - [mohamedjavith2811-email@example.com]
+Your Name - [mohamedjavith2811@gmail.com]
 
 Project Link: https://javith111.github.io/Image-gallery/
 ```

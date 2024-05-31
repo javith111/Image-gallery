@@ -81,7 +81,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 Your Name - [mohamedjavith2811-email@example.com]
 
-Project Link: [https://github.com/your-username/image-gallery](https://github.com/your-username/image-gallery)
+Project Link: https://javith111.github.io/Image-gallery/
 ```
 
 ### Instructions:

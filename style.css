@@ -34,8 +34,8 @@
 }
 
 .img__box{
-    width: 220px;
-    height: 220px;
+    width: 200px;
+    height: 200px;
     overflow: hidden;
     cursor: pointer;
     border: solid 1px;
